@@ -1,4 +1,5 @@
 ---
+layout: post
 title: TITLE
 date: 2023-07-25 09:00:00 -0500
 categories: [About, Personal]
