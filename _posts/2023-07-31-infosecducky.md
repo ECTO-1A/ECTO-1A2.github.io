@@ -2,7 +2,7 @@
 title: Infosec Test Ducky Script
 date: 2023-07-30 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
-tags: [portfolio, coding projects, cybersecurity, duckyscript, flipper zero, o.mg]     # TAG names should always be lowercase
+tags: [portfolio, coding projects, cybersecurity, duckyscript, flipper zero]     # TAG names should always be lowercase
 image:
   path: /assets/ducky.png
 ---
@@ -26,3 +26,4 @@ Ducky Script for testing if end users will plug in a random usb (ducky) or cable
 - Understanding of MacOS & Shell
 - Duckyscript to write code
 - O.MG Cable & Flipper Zero (BadUSB) to test script deployment
+
