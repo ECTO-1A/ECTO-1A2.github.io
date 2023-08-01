@@ -3,6 +3,8 @@ title: Infosec Test Ducky Script
 date: 2023-07-30 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, cybersecurity, duckyscript, flipper zero, o.mg]     # TAG names should always be lowercase
+image:
+  path:(https://user-images.githubusercontent.com/112792126/209692167-1a0081d4-9446-42cb-bf51-5d1c93d0711c.png)
 ---
 
 # Infosec Test Ducky Script
