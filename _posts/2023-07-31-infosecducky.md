@@ -15,7 +15,7 @@ Ducky Script for testing if end users will plug in a random usb (ducky) or cable
 
 2) It then sends that info to a discord webhook
    
-<img width="333" alt="Screen Shot 2022-12-27 at 11 08 41 AM" src="https://user-images.githubusercontent.com/112792126/209692167-1a0081d4-9446-42cb-bf51-5d1c93d0711c.png">
+<img width="333" src="https://user-images.githubusercontent.com/112792126/209692167-1a0081d4-9446-42cb-bf51-5d1c93d0711c.png">
 
 3) User gets a popup telling them they failed the InfoSec Test and to return the device to the team.
    
