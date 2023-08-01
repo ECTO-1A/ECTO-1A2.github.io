@@ -32,7 +32,8 @@ Try it out at <https://slimy.cloud>
 
 <h2>Hosting</h2>
 
-- cloud hosting
+- Server hosted with Linode
 - Ubuntu Linux
 - Gunicorn
 - Nginx
+- SSL & DDOS protection through Cloudflare
