@@ -3,6 +3,8 @@ title: SLIMY.CLOUD
 date: 2023-07-31 14:30:00 -0500
 categories: [Portfolio, Coding Projects, AI]
 tags: [portfolio, coding projects, python, gpt, ai, flask]     # TAG names should always be lowercase
+image:
+  path: /assets/slimy.png
 ---
 
 # SLIMY.CLOUD
