@@ -18,7 +18,7 @@ Ducky Script for testing if end users will plug in a random usb (ducky) or cable
 
 
 3) User gets a popup telling them they failed the evaluation and to return the device to the team.
-<img width="333" src="https://user-images.githubusercontent.com/112792126/209692487-6c9de450-f84f-409e-8b7a-c84e0d31144e.png">{: .normal}
+<img src="https://user-images.githubusercontent.com/112792126/209692487-6c9de450-f84f-409e-8b7a-c84e0d31144e.png">{:width="333" .w-75 .normal}
 
   
 # Technology Used
