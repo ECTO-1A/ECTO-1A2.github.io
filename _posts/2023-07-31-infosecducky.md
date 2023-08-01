@@ -1,6 +1,6 @@
 ---
 title: Infosec Test Ducky Script
-date: 2023-07-25 14:30:00 -0500
+date: 2023-07-30 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, cybersecurity, duckyscript, flipper zero, o.mg]     # TAG names should always be lowercase
 ---
