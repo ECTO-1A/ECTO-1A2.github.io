@@ -7,7 +7,7 @@ image:
   path: /assets/slimy.png
 ---
 
-<H1>SLIMY.CLOUD</H1>
+<H2>SLIMY.CLOUD</H2>
 Slilmy.cloud was the first AI app that I created. Its purpose was to:
 - Provide GPT access to friends and family without needing to create an account 
 - Showcase the functionality of different system prompts (with the ability to stack multiple)
@@ -16,21 +16,21 @@ Slilmy.cloud was the first AI app that I created. Its purpose was to:
 Try it out at <https://slimy.cloud>  
 
   
-<H1>Technology Used</H1>
+<H2>Technology Used</H2>
 
-<h2>Back End</h2>
+<h3>Back End</h3>
 
 - Python
 - OpenAI API
 - Flask
 
-<h2>Front End</h2>
+<h3>Front End</h3>
 
 - html
 - css
 - javascript
 
-<h2>Hosting</h2>
+<h3>Hosting</h3>
 
 - Server hosted with Linode
 - Ubuntu Linux
