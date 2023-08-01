@@ -4,7 +4,7 @@ date: 2023-07-30 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, cybersecurity, duckyscript, flipper zero, o.mg]     # TAG names should always be lowercase
 image:
-  path: (/assets/ducky.png)
+  path: /assets/ducky.png
 ---
 
 # Infosec Test Ducky Script
