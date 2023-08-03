@@ -1,8 +1,8 @@
 ---
 title: Photography
 date: 2023-01-01 14:30:00 -0500
-categories: [Portfolio, Photography]
-tags: [photography, art]     # TAG names should always be lowercase
+categories: [Portfolio]
+tags: [photography]     # TAG names should always be lowercase
 ---
 
 # Photography
