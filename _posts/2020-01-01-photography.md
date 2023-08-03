@@ -4,7 +4,7 @@ date: 2020-01-01 14:30:00 -0500
 categories: [Life, Photography]
 tags: [photography, art]     # TAG names should always be lowercase
 image:
-  path: /assets/brain.jpg
+  path: 
 ---
 
 # Photography
