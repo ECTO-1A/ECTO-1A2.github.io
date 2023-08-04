@@ -1,6 +1,6 @@
 ---
 title: Siri As A Language Teacher Using The GPT API
-date: 2023-07-30 14:30:00 -0500
+date: 2023-07-29 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, ai, mac, ios]     # TAG names should always be lowercase
 image:
