@@ -2,7 +2,7 @@
 title: Using ChatGPT As A Language Teacher Using Siri Shortcuts
 date: 2023-07-29 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
-tags: [portfolio, coding projects, ai, mac, ios, apple]     # TAG names should always be lowercase
+tags: [portfolio, coding projects, ai, mac, ios]     # TAG names should always be lowercase
 image:
   path: /assets/brain.jpg
 ---
@@ -14,8 +14,7 @@ This can be installed on an iOS device, and will work with your Mac devices incl
 
 To further expand on this concept, I wanted to build a task specific Siri Shortcut that included a system prompt to shape the response generated.
 
-Using a similar prompt to the one I have set up on [**SLIMY.CLOUD**](https://slimy.cloud), I created this shortcut to assist in learning Brazillian Portuguese.<br>
-<br>
+Using a similar prompt to the one I have set up on [**SLIMY.CLOUD**](https://slimy.cloud), I created this shortcut to assist in learning Brazillian Portuguese.
 
 
 <img width="350" src="https://github.com/ECTO-1A/ECTO-1A.github.io/assets/112792126/6e478ce1-2c56-44a2-87b1-40504600121c">
