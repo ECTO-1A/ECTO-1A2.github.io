@@ -1,18 +1,21 @@
 ---
-title: Siri As A Language Teacher Using The GPT API
+title: Using ChatGPT As A Language Teacher Using Siri Shortcuts
 date: 2023-07-29 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
-tags: [portfolio, coding projects, ai, mac, ios]     # TAG names should always be lowercase
+tags: [portfolio, coding projects, ai, mac, ios, apple]     # TAG names should always be lowercase
 image:
   path: /assets/brain.jpg
 ---
 
-# Learning a language
+# Learning a Language Using ChatGPT
 
 I created this Siri shortcut for iOS to integrate the capabilities of ChatGPT into Siri, giving me the ability to use ChatGPT via speach input and receive a spoken response.
-This can be installed on a Mac or iOS device, and will work with any of your Mac devices including the Apple Watch, HomePod and HomePod Mini. 
+This can be installed on an iOS device, and will work with your Mac devices including the Apple Watch, HomePod and HomePod Mini. 
 
-Using a similar prompt to the one I have set up on [**SLIMY.CLOUD**](https://slimy.cloud), I created this shortcut to assist in learning Brazillian Portuguese.
+To further expand on this concept, I wanted to build a task specific Siri Shortcut that included a system prompt to shape the response generated.
+
+Using a similar prompt to the one I have set up on [**SLIMY.CLOUD**](https://slimy.cloud), I created this shortcut to assist in learning Brazillian Portuguese.<br>
+<br>
 
 
 <img width="350" src="https://github.com/ECTO-1A/ECTO-1A.github.io/assets/112792126/6e478ce1-2c56-44a2-87b1-40504600121c">
@@ -20,10 +23,10 @@ Using a similar prompt to the one I have set up on [**SLIMY.CLOUD**](https://sli
 
 # How To Use
 
-- Install the official ChatGPT app from the App Store.
+- Install the official ChatGPT app from the iOS App Store.
 - Log in or create an account in ChatGPT.
-- Install the iOS shortcut using the following this [**Link**](https://www.icloud.com/shortcuts/8ab63f09918249a6b86633a27d495d11)
-- The name of the shortcut is how it will be triggered. It is currently named 'Mano' so to access, say 'Hey Siri, Mano' and it will execute the shortcut. (this can be changed by editing the name of the Shortcut in the Shortcuts App.
+- Install the iOS shortcut using the following [**Link**](https://www.icloud.com/shortcuts/8ab63f09918249a6b86633a27d495d11)
+- The name of the shortcut is how it will be triggered. It is currently named 'Mano' so to access, say 'Hey Siri, Mano' and it will execute the shortcut. __This can be changed by editing the name of the Shortcut in the Shortcuts App.__
 - It then prompts if you would like to continue your conversation or start a new chat.
 - All conversations are written back to the ChatGPT app.
 
