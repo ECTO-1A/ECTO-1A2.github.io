@@ -1,6 +1,6 @@
 ---
 title: Siri Shortcut for ChatGPT
-date: 2023-07-30 14:30:00 -0500
+date: 2023-08-04 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, ai, mac, ios]     # TAG names should always be lowercase
 image:
