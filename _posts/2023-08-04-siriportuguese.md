@@ -15,7 +15,7 @@ This can be installed on a Mac or iOS device, and will work with any of your Mac
 Using a similar prompt to the one I have set up on [**SLIMY.CLOUD**](https://slimy.cloud), I created this shortcut to assist in learning Brazillian Portuguese.
 
 
-<img width="500" src="https://github.com/ECTO-1A/ECTO-1A.github.io/assets/112792126/6e478ce1-2c56-44a2-87b1-40504600121c">
+<img width="350" src="https://github.com/ECTO-1A/ECTO-1A.github.io/assets/112792126/6e478ce1-2c56-44a2-87b1-40504600121c">
 
 
 # How To Use
