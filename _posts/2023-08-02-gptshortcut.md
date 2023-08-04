@@ -16,7 +16,7 @@ Once installed on an iOS device, you will be able to use the shortcut with any o
 
 - Install the official ChatGPT app from the App Store.
 - Log in or create an account in ChatGPT.
-- Install the iOS shortcut using the following link https://www.icloud.com/shortcuts/4ae3304051fd4b69b46622eea0661653
+- Install the iOS shortcut using the following this [**Link**](https://www.icloud.com/shortcuts/4ae3304051fd4b69b46622eea0661653)
 - The name of the shortcut is how it will be triggered. It is currently named 'AI Mode' so to access, say 'Hey Siri, AI Mode' and it will execute the shortcut.
 - It then prompts if you would like to continue your conversation or start a new chat.
 - All conversations are written back to the ChatGPT app.
