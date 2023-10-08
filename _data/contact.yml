@@ -11,11 +11,12 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-  url: 'theecto1a@gmail.com
+  url: 'theecto1a@gmail.com'
   
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+  
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
