@@ -1,6 +1,6 @@
 ---
 title: Mac Ducky Script For User Security Test
-date: 2023-07-30 14:30:00 -0500
+date: 2022-12-27 14:30:00 -0500
 categories: [Portfolio, Coding Projects]
 tags: [portfolio, coding projects, cybersecurity, duckyscript, flipperzero]     # TAG names should always be lowercase
 image:
