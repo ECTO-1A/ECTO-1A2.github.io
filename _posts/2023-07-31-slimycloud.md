@@ -1,6 +1,6 @@
 ---
 title: SLIMY.CLOUD
-date: 2023-07-31 14:30:00 -0500
+date: 2023-01-07 14:30:00 -0500
 categories: [Portfolio, Coding Projects, AI]
 tags: [portfolio, coding projects, python, gpt, ai, flask]     # TAG names should always be lowercase
 image:
