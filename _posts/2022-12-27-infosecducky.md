@@ -9,7 +9,7 @@ image:
 
 # Infosec User Test Ducky Script
 
-Ducky Script for testing if end users will plug in a random usb (ducky) or cable(o.mg).
+Ducky Script for testing if end users will plug in a random usb (ducky) or cable(O.MG).
 
 1) When the device is plugged in the payload triggers, it collects the logged in user name and the serial number of device.
 
