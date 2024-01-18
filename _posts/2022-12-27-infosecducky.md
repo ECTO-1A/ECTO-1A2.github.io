@@ -11,7 +11,7 @@ image:
 
 Ducky Script for testing if end users will plug in a random usb (ducky) or cable(O.MG).
 
-1) When the device is plugged in the payload triggers, it collects the logged in user name and the serial number of device.
+1) When the device is plugged in, the payload triggers. It collects the logged in user name and the serial number of device.
 
 2) It then sends that info to a discord webhook
 
